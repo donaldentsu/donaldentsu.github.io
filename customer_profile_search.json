@@ -1,0 +1,23 @@
+[
+    {
+        "pinnacle_id": "d44b7b8d-0530-4604-9036-da47c6cf39f6",
+        "name": "Kevin De Roland",
+        "phone_number": "081122334456",
+        "email": "kdroland@gmail.com",
+        "user_id": "D0001"
+    },
+    {
+        "pinnacle_id": "d4604--90344b7b8d-05306-da47c6cf39f6",
+        "name": "Andre Bimbo",
+        "phone_number": "081212808000",
+        "email": "andrebimbo@gmail.com",
+        "user_id": "D0002"
+    },
+    {
+        "pinnacle_id": "c6cf39f6-d44b7b8d-0530-4604-9036-da47",
+        "name": "Youka Dena",
+        "phone_number": "081234567890",
+        "email": "youdena@gmail.com",
+        "user_id": "D0003"
+    }
+]

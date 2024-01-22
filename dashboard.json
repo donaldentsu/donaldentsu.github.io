@@ -1,0 +1,81 @@
+{
+    "total_unique_customer_mtd" : {
+        "total_customer": 2468798,
+        "month_to_date": 12
+    },
+    "audience_mtd" : {
+        "total_audience": 1268798,
+        "month_to_date": 12
+    },
+    "total_customer_dashboard": {
+        "title": "User Identified", 
+        "total_data": "1660077", 
+        "data": {
+            "label":["Non-Digital Customers","Digital Customers"],
+            "value": ["660000","1000077"],
+            "percentage": ["39","61"]
+        }
+    },
+    "customer_digital_active": {
+        "label": ["2/10","4/10","6/10","8/10","10/10","12/10","14/10","16/10","18/10","20/10","22/10","24/10"],
+        "data": [1000000,4523000,2635000,7000000,5000000,3000000,6000000,4000000,5000000,4000000,3000000,7000000]
+    },
+    "data_source": {
+        "title": "Data Source",
+        "total_data": "141",
+        "data": {
+            "label":["Directed Upload","BigQuery"],
+            "value": ["109","32"]
+        }
+    },
+    "total_destination_account": {
+        "title": "Connected Account",
+        "total_data": "105",
+        "data": {
+            "label":["Google Ads","Meta Ads","Cloud Storage"],
+            "value": ["54","31","20"]
+        }
+    },
+    "recent_audiences": [
+        {
+            "id": "1dfoe0i3j0r23jr0sda",
+            "audience_name": "100k Lending bala-bala",
+            "total_customer": "1408",
+            "audience_description": "100k Lending bala-bala apapund dehakfsd"
+        },
+        {
+            "id": "safioej02noincoijdd",
+            "audience_name": "Independece day - 17% off domestic flight",
+            "total_customer": "35",
+            "audience_description": "Independece day - 17% off domestic flight description"
+        },
+        {
+            "id": "320492390fu893nfu99",
+            "audience_name": "7.7 Mens wear lending bala-bala",
+            "total_customer": "12",
+            "audience_description": "7.7 Mens wear lending bala-bala description"
+        }
+    ],
+    "customer_funnel": [
+        {
+            "funnel_label": "login",
+            "funnel_value": 1120,
+            "funnel_percentage": 50
+        },
+        {
+            "funnel_label": "product_view",
+            "funnel_value": 789,
+            "funnel_percentage": 30
+        },
+        {
+            "funnel_label": "product_add_to_chart",
+            "funnel_value": 356,
+            "funnel_percentage": 20
+        },
+        {
+            "funnel_label": "product_purchase",
+            "funnel_value": 122,
+            "funnel_percentage": 10
+        }
+    ]
+}

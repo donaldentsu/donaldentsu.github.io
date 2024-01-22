@@ -1,0 +1,22 @@
+[
+    {
+        "id": "sdfasfdsiajfneic",
+        "name": "Sample BQ 1",
+        "datasets": "dataset-sample-1",
+        "project_id": "2398ridnkajn2oiej2o34sad",
+        "source_data": "test-connection",
+        "type": "Scheduled",
+        "schedule": "09/11/2023",
+        "status": "success"
+    },
+    {
+        "id": "sldjfnslkdjfnlni",
+        "name": "Sample BQ 2",
+        "datasets": "dataset-sample-2",
+        "project_id": "lsdjf0239e0dn29und32i8",
+        "source_data": "test-connection",
+        "type": "Scheduled",
+        "schedule": "15/12/2023",
+        "status": "fail"
+    }
+]
